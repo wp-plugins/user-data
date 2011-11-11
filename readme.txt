@@ -4,7 +4,7 @@ Donate link: http://circlecube.com/contact/
 Tags: user, author, profile, bio
 Requires at least: 3.0
 Tested up to: 3.2
-Stable tag: 1.1.0
+Stable tag: 1.1.1
 
 Add certain fields and images to your user profiles. Also gives access via shortcode to display a list of users/authors anywhere on your site. 
 
@@ -65,6 +65,9 @@ Initial install
 == Changelog ==
 
 
+= 1.1.1 =
+*	typo fix- update
+
 = 1.1.0 =
 *	adding a widget to display a random user
 
@@ -80,10 +83,9 @@ Initial Version
 
 Things in consideration for future development
 
-* Widget to include author spotlight in sidebar
 * Create your own fields interface
 * Drag/drop update sort order
-* Socail Media links
+* Sort by sort order on user index page
 * Calendar for date
 * Add fields...
 * Add shortcode options for sorting behavior
