@@ -5,7 +5,7 @@
  * Description: Adds additional fields to each user profile and adds a template file for displaying a list of site authors.
  * Author: Evan Mullins
  * Author URI: http://circlecube.com
- * Version: 0.1.1
+ * Version: 1.1.0
  */
 
 // register with hook 'wp_print_styles'
